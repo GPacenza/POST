@@ -1,0 +1,26 @@
+11/16
+Currently quite stalled with the Firebase functions. Spent the past two weeks working to try to figure out the errors with no luck. Made some small upgrades to the site in the meantime.
+
+11/2
+Symposium presentations 
+Fixed compilation errors with the website
+Got new freshmen shadower, Rhishitha, oriented
+Started work with firebase functions to get the automatic email functionality working
+Worked on updating the production server.
+Researched on how to incorporate an in-app help form
+Spent time debugging collect app because it had some build and running errors.
+
+10/19
+The core functionality for the login component is now complete. 
+The user can login, select plants to be associated with him/her, and that information   will be stored in the Firebase database as part of the user’s data
+Changed the default server and question navigation.
+Discussed with Ethan about furthur progressions
+Given that symposium presentations are this coming Monday, we dedicated our last few meetings to preparing the presentation and rehearsing.
+
+10/5 
+Started work on the login feature of the site over these past two weeks. Currently have the logout and login feature in the sense that when the user logs in, a Google login form is shown allowing the user to sign in using their Gmail, after which point an authentication token is sent to the database registering that user in our database of users. However, there is no visible effect on the site as yet. Started working on a related plant selector component from which a user can select which plants he/she would like to receive information about. 
+We were still in the process of working around the quota problem with the production server when trying to pull the data. We also did some research on how we can change some of the collect app configurations to add our own features.
+
+9/21
+We still have not been able to speak with Ethan to get a sense of direction for the semester, so the start has been slow. With regards to the angular site, small updates have been made and important bugs for routing between pages have been fixed. Given that at the end of last semester Ethan was talking to us about implementing a login feature on the site, we started to look into using Firebase Authentication to get a general understanding of the system.
+We also continued to update the development server for ODK Aggregate.
